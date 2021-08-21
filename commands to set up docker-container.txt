@@ -1,2 +1,0 @@
-docker build -t sber_demo .
-docker network create my-net
